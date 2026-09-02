@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Premier",
+  "description": "The classic Ludo board game reimagined with premium graphics, Pass & Play offline multiplayer, intelligent AI opponents, statistics, sound effects, and customizable match setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
